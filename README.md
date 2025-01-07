@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Pamela!
-- 👀 Estou cursando Gestão da Tecnologia da Informação!
-- 🌱 I’m currently learning  Bootcamp  quebec Java Digital , direcionado a linguagem Java!
-
-Tenho interesse em trabalhar na area de frontend, backend, fullstack, e ciencia de dados.
+- Hi, I’m Pamela!
+- Gestão da Tecnologia da Informação!
 
 “Você deve lutar mais de uma batalha para se tornar um vencedor” – Margaret Thatcher.
 
